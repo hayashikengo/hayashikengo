@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/hayashikengo/hayashikengo/master/icons/wave.gif" width="30px">
+### Hi there <img src="https://raw.githubusercontent.com/hayashikengo/hayashikengo/main/icons/wave.gif" width="30px">
 
 **[Hayashi Kengo](https://twitter.com/kenbu05)** is a ✨ WebEngineer ✨
 I like Golang, Flutter, GCP, etc.
