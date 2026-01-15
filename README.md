@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/hayashikengo/hayashikengo/main/icons/wave.gif" width="30px">
 
-**[Hayashi Kengo](https://twitter.com/kenbu05)** is a CTO.
+**[Hayashi Kengo](https://twitter.com/kenbu05)** is a software engineer.
 I like TypeScript, Golang, Flutter, GCP, etc.
 
 Here are some ideas to get you started:
